@@ -1,1 +1,2 @@
-# building-blocks-MediaWiki
+# building blocks MediaWiki
+
