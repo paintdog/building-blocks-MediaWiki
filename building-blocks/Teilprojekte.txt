@@ -1,0 +1,20 @@
+== Teilprojekte ==
+
+Folgende Teilprojekte sind registriert:
+
+{| class="wikitable" width="100%"
+|-
+! Teilprojekt
+! Beschreibung
+! style="width:  6em;" | Beginn
+! style="width:  6em;" | Ende
+! style="width:  8em;" | Status
+
+|- style="vertical-align:top" <!-- ###################################################################################################### -->
+| <!--      Teilprojekt   --> | [[/__UNTERPROJEKT__|__UNTERPROJEKT__]]
+| <!--      Beschreibung  --> | __PROJEKTBESCHREIBUNG__
+| style="text-align: center;" | <!-- Beginn --> 2018-05-31
+| style="text-align: center;" | <!-- Ende   --> 2018-05-31
+| <!--               Status --> Abgeschlossen/Läuft/Wartet/Gestoppt
+
+|}
