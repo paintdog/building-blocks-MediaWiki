@@ -31,9 +31,9 @@ while files:
 # Der eigentliche Vorgang, um eine Seite für den Source Code des Programms zu erzeugen
 if files:
 
-    print(";{}".format(project))
+    print("{}".format(project))
     print("<tt>Version: {}</tt>".format(version))
-    print("[[Kategorie:__Bereich__|__PFAD__]]")
+    print("\n[[Kategorie:__Bereich__|__PFAD__]]")
 
     print("= Quelldateien =")
     
@@ -49,6 +49,6 @@ if files:
         print("<source lang='python'>")
         for code_line in code_lines:
             print(code_line.replace("\n", ""))
-        print("<source>\n")
+        print("</source>\n")
 
 input("\n\n>>> Fertig!")
